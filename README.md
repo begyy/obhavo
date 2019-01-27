@@ -2,7 +2,7 @@
 
 ````
 pip install requests
-pip insall bs4
+pip install bs4
 pip install Obhavo
 ````
 
